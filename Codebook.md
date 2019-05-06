@@ -20,6 +20,8 @@ Data are available here https://d396qusza40orc.cloudfront.net/getdata%2Fprojectf
 + STANDING (value 5): subject was standing
 + LAYING (value 6): subject was laying down
 
+Variable Naming Conventions unchanged from original data set besides 
++ "f" named as FrequencyDom and + "t" named as "TimeDom" to make the labels more explicit and explicative.
 
 ## Transformations/ Data Cleaning
 Any processing applied to the data can be found in the code run_analysis.R.
