@@ -13,12 +13,12 @@ Data are available here https://d396qusza40orc.cloudfront.net/getdata%2Fprojectf
 + subject: ID of the subject
 + activity: activity performed when  measurement was taken
 ### Activity Labels
-+WALKING (value 1): subject was walking
-+WALKING_UPSTAIRS (value 2): subject was walking upstairs
-+WALKING_DOWNSTAIRS (value 3): subject was walking downstairs
-+SITTING (value 4): subject was sitting
-+STANDING (value 5): subject was standing
-+LAYING (value 6): subject was laying down
++ WALKING (value 1): subject was walking
++ WALKING_UPSTAIRS (value 2): subject was walking upstairs
++ WALKING_DOWNSTAIRS (value 3): subject was walking downstairs
++ SITTING (value 4): subject was sitting
++ STANDING (value 5): subject was standing
++ LAYING (value 6): subject was laying down
 
 
 ## Transformations/ Data Cleaning
