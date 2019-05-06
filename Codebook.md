@@ -6,7 +6,7 @@ Data are collected from the accelerometers from the Samsung Galaxy S smartphone 
 ## Variables
 ### Identifiers
 + subject: ID of the subject
-+ activity: activity performed when  measurement weas taken
++ activity: activity performed when  measurement was taken
 ### Activity Labels
 WALKING (value 1): subject was walking
 WALKING_UPSTAIRS (value 2): subject was walking upstairs
