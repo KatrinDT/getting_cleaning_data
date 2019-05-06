@@ -8,8 +8,8 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 Data are available here https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-## Variables
-### Identifiers
+## Variables in clean data set (mean values given) 
+### Identifiers (for group means)
 + subject: ID of the subject
 + activity: activity performed when  measurement was taken
 ### Activity Labels
@@ -20,8 +20,9 @@ Data are available here https://d396qusza40orc.cloudfront.net/getdata%2Fprojectf
 + STANDING (value 5): subject was standing
 + LAYING (value 6): subject was laying down
 
-Variable Naming Conventions unchanged from original data set besides 
-+ "f" named as FrequencyDom and + "t" named as "TimeDom" to make the labels more explicit and explicative.
+Variable Naming Conventions unchanged from original data set (please see features_info.txt for the original code book) besides 
++ "f" named as FrequencyDom and 
++ "t" named as "TimeDom" to make the labels more explicit and explicative.
 
 ## Transformations/ Data Cleaning
 Any processing applied to the data can be found in the code run_analysis.R.
