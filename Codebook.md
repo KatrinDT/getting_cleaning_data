@@ -1,9 +1,9 @@
-## Code book fpr data including variables, transformation and cleaning processes
+# Code book for data including variables, transformation and cleaning processes
 
-# Data Source
+## Data Source
 Data are collected from the accelerometers from the Samsung Galaxy S smartphone and are available here https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-# Variables
+## Variables
 
 ## Transformations/ Data Cleaning
 Any processing applied to the data can be found in the code run_analysis.R.
