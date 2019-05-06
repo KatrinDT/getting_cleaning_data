@@ -4,6 +4,17 @@
 Data are collected from the accelerometers from the Samsung Galaxy S smartphone and are available here https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Variables
+### Identifiers
++ subject: ID of the subject
++ activity: activity performed when  measurement weas taken
+### Activity Labels
+WALKING (value 1): subject was walking
+WALKING_UPSTAIRS (value 2): subject was walking upstairs
+WALKING_DOWNSTAIRS (value 3): subject was walking downstairs
+SITTING (value 4): subject was sitting
+STANDING (value 5): subject was standing
+LAYING (value 6): subject was laying down
+
 
 ## Transformations/ Data Cleaning
 Any processing applied to the data can be found in the code run_analysis.R.
