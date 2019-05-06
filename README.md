@@ -1,5 +1,7 @@
 # Coursera Getting and Cleaning Data course project
 
+The course project focuses on a data set for Human Activity Recognition Using Smartphones.
+
 
 This repository contains the following files:
 + README.md: this file explains how all of the scripts work and how they are connected.
